@@ -1,5 +1,5 @@
 # CRO
-The Common Rule Ontology \(CRO\), a BFO-based ontology of the U.S. Common Rule 45 CFR 46. This federal regulation is also known as the [Federal Policy for the Protection of Human Subjects](https://www.hhs.gov/ohrp/regulations-and-policy/regulations/common-rule/index.html). 
+The Common Rule Ontology \(CRO\), is a BFO-based ontology of the U.S. Common Rule 45 CFR 46. This federal *regulation* is also known as the [Federal Policy for the Protection of Human Subjects](https://www.hhs.gov/ohrp/regulations-and-policy/regulations/common-rule/index.html). 
 
 The ontology attempts to represent subparts A through D of the Common Rule. The CRO contains classes for major parts of the [1991 version of the regulations](https://www.hhs.gov/ohrp/regulations-and-policy/regulations/45-cfr-46/index.html), as in effect prior to January 19, 2017. 
 
