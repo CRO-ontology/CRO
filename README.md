@@ -1,9 +1,11 @@
+# This Git Branch is under Development
+
 # CRO
-The Common Rule Ontology \(CRO\), is a BFO-based ontology of the U.S. Common Rule 45 CFR 46. This federal *regulation* is also known as the [Federal Policy for the Protection of Human Subjects](https://www.hhs.gov/ohrp/regulations-and-policy/regulations/common-rule/index.html). 
+The Common Rule Ontology \(CRO\), is a BFO-based ontology of the U.S. Common Rule 45 CFR 46. This federal *regulation* is also known as the [Federal Policy for the Protection of Human Subjects](https://www.hhs.gov/ohrp/regulations-and-policy/regulations/common-rule/index.html).
 
-The ontology attempts to represent subparts A through D of the Common Rule. The CRO contains classes for major parts of the [1991 version of the regulations](https://www.hhs.gov/ohrp/regulations-and-policy/regulations/45-cfr-46/index.html), as in effect prior to January 19, 2017. 
+The ontology attempts to represent subparts A through D of the Common Rule. The CRO contains classes for major parts of the [1991 version of the regulations](https://www.hhs.gov/ohrp/regulations-and-policy/regulations/45-cfr-46/index.html), as in effect prior to January 19, 2017.
 
-Classes are also implemented for the "secondary research" parts of the [2017 revision of the Common Rule](https://www.hhs.gov/ohrp/regulations-and-policy/regulations/finalized-revisions-common-rule/index.html) that was slated to go into effect on January 19, 2018. As of this writing on 3/5/2018 however, implementation of the regulation remains on hold pending administrative review and final decision by the Trump administration. Further development of the 2017 parts of this ontology await the outcome the administration's review of the Common Rule. 
+Classes are also implemented for the "secondary research" parts of the [2017 revision of the Common Rule](https://www.hhs.gov/ohrp/regulations-and-policy/regulations/finalized-revisions-common-rule/index.html) that was slated to go into effect on January 19, 2018. As of this writing on 3/5/2018 however, implementation of the regulation remains on hold pending administrative review and final decision by the Trump administration. Further development of the 2017 parts of this ontology await the outcome the administration's review of the Common Rule.
 
 ### owl:versionInfo: 2018-02-26 \(draft\)
 ## Warning: This ontology is currently in a pre-release DRAFT form
