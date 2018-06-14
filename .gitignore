@@ -1,0 +1,3 @@
+# Ignore catalogs to reduce overhead
+catalog-v001.xml
+legacy_files/catalog-v001.xml
